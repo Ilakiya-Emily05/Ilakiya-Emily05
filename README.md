@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ilakiya-Emily05/Ilakiya-Emily05/main/elle-sakura-header.png" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily&fontAlign=50&fontAlignY=40&animation=fadeIn&color=gradient&height=120"/>
 </p>
 
 <p align="center">
@@ -131,16 +131,6 @@ Those who dream by day are cognizant of many things which escape those who dream
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=radical"/>
-</p>
-
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
-
----
 
 ## 🧭 Philosophy
 Technology should solve problems that actually matter.  
