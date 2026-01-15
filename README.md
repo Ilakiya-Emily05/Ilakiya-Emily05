@@ -7,12 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%92%96Ilakiya%20Emily%F0%9F%92%96&fontAlign=50&fontAlignY=40&animation=fadeIn&color=ffffff&colorBg=FF69B4&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=%E2%80%AA%3A%C2%A8%20%C2%B7.%C2%B7%20%C2%A8%3A%20Ilakiya%20Emily%20%60%C2%B7%20.%20%F0%90%99%9A&fontAlign=50&fontAlignY=40&animation=fadeIn&color=ffffff&colorBg=FF69B4&height=120"/>
 </p>
 
 <p align="center" style="font-size: 2rem; color: #FF69B4;">
   ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
+
 
 
 <p align="center">
