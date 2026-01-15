@@ -1,11 +1,11 @@
-## Hello こんにちは வணக்கம் Hallo willkommen👋
+## Hello こんにちは வணக்கம் Hallo willkommen
 
 <p align="center">
-  <img src="./assets/sukuna-domain.gif" width="300"/>
+  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/jujutsu-kaisen-domain-expansion.gif" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4&height=120&background=FFB6C1&desc=✿&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20Joseph%20Ignatius&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4&height=120&background=FFC0CB&desc=✿%20✿%20✿&descAlign=60"/>
 </p>
 
 <p align="center">
