@@ -4,15 +4,19 @@
   <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/raw/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
 </p>
 
+## Hello こんにちは வணக்கம் Hallo willkommen👋
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%92%96Ilakiya%20Emily
-    %F0%9F%92%96&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4,FF1493&height=120"/>
+  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/raw/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=%F0%9F%92%96Ilakiya%20Emily%20Joseph%20Ignatius%F0%9F%92%96&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4,FF1493&height=120"/>
 </p>
 
 <p align="center" style="font-size: 2rem; color: #FF69B4;">
   ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
-
 
 
 <p align="center">
