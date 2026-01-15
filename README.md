@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20Joseph%20Ignatius&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4&height=120&background=FFC0CB&desc=✿%20✿%20✿&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4&height=120&background=FFC0CB&desc=✿%20✿%20✿&descAlign=60"/>
 </p>
 
 <p align="center">
