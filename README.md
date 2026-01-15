@@ -1,11 +1,11 @@
-## Hello こんにちは வணக்கம் Hallo willkommen👋 ⋆｡˚ ✩ ⋆｡˚ ✩
+## Hello こんにちは வணக்கம் Hallo willkommen👋
 
 <p align="center">
-  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
+  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/raw/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20Joseph%20Ignatius&fontAlign=50&fontAlignY=40&animation=fadeIn&color=linear-gradient&height=120&desc=⋆｡˚ ✩ ⋆｡˚ ✩&descAlign=50"/>
+  <img src="https://raw.githubusercontent.com/Ilakiya-Emily05/Ilakiya-Emily05/main/elle-sakura-header.png" width="600"/>
 </p>
 
 <p align="center">
@@ -15,6 +15,10 @@
 
 <p align="center">
   GDGOCampus Lead · Dept Club President · Activist · Published Poetess
+</p>
+
+<p align="center">
+  ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
 
 ---
@@ -31,7 +35,7 @@ Beyond academics, I actively volunteer with **NSS**, **Youth for Climate**, and 
 
 At heart, I’m a strategist. I enjoy systems, patterns, and quiet problem-solving. Chess sharpens my thinking, badminton keeps me grounded, painting fuels creativity, and poetry allows me to explore the convergence of **logic, nature, and emotion**.
 
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -57,13 +61,12 @@ Selected works span:
 
 Each project emphasizes **clarity, scalability, and purpose**.
 
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
 ## ✒️ Poetry
 My pen name? Aurea Vale...
-
 <p align="left">
   <a href="https://wordsbyg2.odoo.com/shop/thorns-beneath-the-silent-crown-110">
     <img src="https://img.shields.io/badge/Thorns%20Beneath%20the%20Silent%20Crown-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
@@ -75,9 +78,9 @@ I’m a **published poetess**, writing at the crossroads of:
 - nature and systems  
 - ambition and vulnerability  
 
-"Those who dream by day are cognizant of many things which escape those who dream only by night."
+Those who dream by day are cognizant of many things which escape those who dream only by night.
 
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -90,7 +93,7 @@ I’m a **published poetess**, writing at the crossroads of:
 - Biodiversity & Climate Resilience  
 - Systems Thinking & Strategy  
 
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -101,8 +104,8 @@ I’m a **published poetess**, writing at the crossroads of:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
@@ -110,35 +113,32 @@ I’m a **published poetess**, writing at the crossroads of:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-
+  
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" width="45"/>
 </p>
 
 **AI & Data Science:** NLP, Machine Learning, Deep Learning, Computer Vision, RNN, Data Analysis, Data Visualization, Model Deployment  
 **Tools & Platforms:** CUDA, Google Colab, Conda Environment, AI Agents SDK, Cybersecurity Policies
 
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-⋆｡˚ ✩ ⋆｡˚ ✩
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -153,4 +153,8 @@ If it doesn’t reduce harm, increase clarity, or protect life, it’s just nois
   <a href="mailto:ilakiyaemilyjoseph@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
