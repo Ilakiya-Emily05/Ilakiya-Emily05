@@ -1,8 +1,4 @@
-## Hello こんにちは வணக்கம் Hallo willkommen👋
 
-<p align="center">
-  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/raw/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
-</p>
 
 ## Hello こんにちは வணக்கம் Hallo willkommen👋
 
