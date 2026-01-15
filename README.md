@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=💖Ilakiya%20Emily
-    💖&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4,FF1493&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=%E2%9D%A4%EF%B8%8FIlakiya%20Emily%20Joseph%20Ignatius%E2%9D%A4%EF%B8%8F&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4,FF1493&height=120"/>
+</p>
+
+<p align="center" style="font-size: 2rem; color: #FF69B4;">
+  ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
 
 
