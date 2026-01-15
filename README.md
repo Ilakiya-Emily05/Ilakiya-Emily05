@@ -1,16 +1,16 @@
-## Hello こんにちは வணக்கம் Hallo willkommen
+## Hello こんにちは வணக்கம் Hallo willkommen👋 ⋆｡˚ ✩ ⋆｡˚ ✩
 
 <p align="center">
-  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/jujutsu-kaisen-domain-expansion.gif" width="300"/>
+  <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/jujutsu-kaisen-domain-expansion.gif" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20&fontAlign=50&fontAlignY=40&animation=fadeIn&color=FF69B4&height=120&background=FFC0CB&desc=✿%20✿%20✿&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Ilakiya%20Emily%20Joseph%20Ignatius&fontAlign=50&fontAlignY=40&animation=fadeIn&color=linear-gradient&height=120&desc=⋆｡˚ ✩ ⋆｡˚ ✩&descAlign=50"/>
 </p>
 
 <p align="center">
   <b>Next-Gen Tech Visionary</b> · <b>AI/ML Innovator</b> · <b>Sustainability & Climate Advocate</b><br>
-  Systems Thinker × Creative Strategist ⋆｡˚ ✩ ⋆｡˚ ✩
+  Systems Thinker × Creative Strategist
 </p>
 
 <p align="center">
@@ -23,13 +23,15 @@
 
 I’m a **Pre-Final Year Computer Science Engineering student** at **Meenakshi Sundararajan Engineering College**, specializing in **AI/ML and Data Analytics**, driven by a clear mission:
 
-**To harness technology for real-world impact.** ⋆｡˚ ✩ ⋆｡˚ ✩
+**To harness technology for real-world impact.**
 
 My primary interests lie in applying intelligent systems to **sustainability, climate resilience, and biodiversity protection**, because progress without responsibility is just noise.
 
 Beyond academics, I actively volunteer with **NSS**, **Youth for Climate**, and the **Global Youth Biodiversity Network**, working at the intersection of **technical innovation and environmental advocacy**.
 
 At heart, I’m a strategist. I enjoy systems, patterns, and quiet problem-solving. Chess sharpens my thinking, badminton keeps me grounded, painting fuels creativity, and poetry allows me to explore the convergence of **logic, nature, and emotion**.
+
+⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -43,7 +45,7 @@ At heart, I’m a strategist. I enjoy systems, patterns, and quiet problem-solvi
     <img src="https://img.shields.io/badge/Marutham%20Mozhi-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
   <a href="https://github.com/Ilakiya-Emily05/INTUERA">
-    <img src="https://img.shields.io/badge/INTUERA-%F0%9F%91%81-B22222?style=for-the-badge&logo=brain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INTUERA-B22222?style=for-the-badge&logo=eye&logoColor=white"/>
   </a>
 </p>
 
@@ -53,7 +55,9 @@ Selected works span:
 - Intelligent Automation  
 - Tech for Sustainability & Climate Impact  
 
-Each project emphasizes **clarity, scalability, and purpose** ⋆｡˚ ✩ ⋆｡˚ ✩
+Each project emphasizes **clarity, scalability, and purpose**.
+
+⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -71,7 +75,9 @@ I’m a **published poetess**, writing at the crossroads of:
 - nature and systems  
 - ambition and vulnerability  
 
-Those who dream by day are cognizant of many things which escape those who dream only by night. ⋆｡˚ ✩ ⋆｡˚ ✩
+"Those who dream by day are cognizant of many things which escape those who dream only by night."
+
+⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
@@ -84,6 +90,8 @@ Those who dream by day are cognizant of many things which escape those who dream
 - Biodiversity & Climate Resilience  
 - Systems Thinking & Strategy  
 
+⋆｡˚ ✩ ⋆｡˚ ✩
+
 ---
 
 ## ⚙️ Tools & Technologies
@@ -94,8 +102,6 @@ Those who dream by day are cognizant of many things which escape those who dream
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
 
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
@@ -110,29 +116,35 @@ Those who dream by day are cognizant of many things which escape those who dream
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
 </p>
 
 **AI & Data Science:** NLP, Machine Learning, Deep Learning, Computer Vision, RNN, Data Analysis, Data Visualization, Model Deployment  
 **Tools & Platforms:** CUDA, Google Colab, Conda Environment, AI Agents SDK, Cybersecurity Policies
 
+⋆｡˚ ✩ ⋆｡˚ ✩
+
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
+⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
 ## 🧭 Philosophy
 Technology should solve problems that actually matter.  
-If it doesn’t reduce harm, increase clarity, or protect life, it’s just noise. ⋆｡˚ ✩ ⋆｡˚ ✩
+If it doesn’t reduce harm, increase clarity, or protect life, it’s just noise.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilakiya-emily-joseph-ignatius-46ab21291/">
