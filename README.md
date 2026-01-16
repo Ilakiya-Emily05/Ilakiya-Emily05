@@ -91,6 +91,15 @@ Those who dream by day are cognizant of many things which escape those who dream
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 🧠 Interests & Focus Areas
 
 - Artificial Intelligence & Machine Learning  
