@@ -98,6 +98,8 @@ Those who dream by day are cognizant of many things which escape those who dream
 
 [![](https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 Leetcode Stats:
+![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
 ---
 
 ## 🧠 Interests & Focus Areas
