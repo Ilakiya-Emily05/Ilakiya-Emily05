@@ -38,7 +38,6 @@ I’m interested in building useful, scalable AI, especially where resources are
 ---
 
 ## 🛠️ Projects
-
 <p align="left">
   <a href="https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main">
     <img src="https://img.shields.io/badge/Vision%20AI-FF69B4?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -48,6 +47,27 @@ I’m interested in building useful, scalable AI, especially where resources are
   </a>
   <a href="https://github.com/Ilakiya-Emily05/INTUERA">
     <img src="https://img.shields.io/badge/INTUERA-B22222?style=for-the-badge&logo=eye&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/HireSight">
+    <img src="https://img.shields.io/badge/HireSight--XAI-8A2BE2?style=for-the-badge&logo=brain&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/mission1.5">
+    <img src="https://img.shields.io/badge/Mission%201.5-228B22?style=for-the-badge&logo=leaf&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/Realm-of-Rivals">
+    <img src="https://img.shields.io/badge/Realm%20of%20Rivals-4B0082?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/Task-Manager-Pro">
+    <img src="https://img.shields.io/badge/Task%20Manager%20Pro-1E90FF?style=for-the-badge&logo=checklist&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-">
+    <img src="https://img.shields.io/badge/India%20Data%20Analysis-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/Emergency-Room-Data-Dashboard">
+    <img src="https://img.shields.io/badge/ER%20Data%20Dashboard-DC143C?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ilakiya-Emily05/OcuScan">
+    <img src="https://img.shields.io/badge/OcuScan-20B2AA?style=for-the-badge&logo=eye&logoColor=white"/>
   </a>
 </p>
 
