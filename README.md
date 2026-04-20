@@ -1,4 +1,3 @@
-<img width="438" height="279" alt="image" src="https://github.com/user-attachments/assets/58ebb5aa-f137-4392-8a82-b080c73cf587" /><p align="center">
   <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/image_2026-02-23_010432113.png" width="500"/>
 </p>
 
