@@ -131,16 +131,6 @@ Each project emphasizes **clarity, scalability, and purpose**.
 **Tools & Platforms:** CUDA, Google Colab, Conda Environment, AI Agents SDK, Cybersecurity Policies
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
----
 
 ## ✒️ Poetry
 My pen name? Aurea Vale...
