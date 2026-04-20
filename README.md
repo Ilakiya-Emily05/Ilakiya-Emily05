@@ -1,15 +1,10 @@
-
-
-
-<p align="center">
+<img width="438" height="279" alt="image" src="https://github.com/user-attachments/assets/58ebb5aa-f137-4392-8a82-b080c73cf587" /><p align="center">
   <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/image_2026-02-23_010432113.png" width="500"/>
 </p>
-
 
 <p align="center" style="font-size: 2rem; color: #FF69B4;">
   ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 </p>
-
 
 <p align="center">
   <b>Building AI Systems</b> · <b>Computer Vision</b> · <b>Edge–Cloud ML</b><br>
@@ -45,8 +40,7 @@ I’m interested in building useful, scalable AI, especially where resources are
   <a href="https://github.com/Ilakiya-Emily05/Marutham-Mozhi">
     <img src="https://img.shields.io/badge/Marutham%20Mozhi-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ilakiya-Emily05/INTUERA">
-    <img src="https://img.shields.io/badge/INTUERA-B22222?style=for-the-badge&logo=google&logoColor=white"/>
+  <a href="https://img.shields.io/badge/INTUERA-B22222?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://github.com/Ilakiya-Emily05/HireSight">
     <img src="https://img.shields.io/badge/HireSight--XAI-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
@@ -82,17 +76,20 @@ Each project emphasizes **clarity, scalability, and purpose**.
 
 ---
 
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
+
 ---
 
 ## 🧠 Interests & Focus Areas
@@ -106,18 +103,25 @@ Each project emphasizes **clarity, scalability, and purpose**.
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
 ---
 
 ## ⚙️ Tools & Technologies
 
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   
-  <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
@@ -125,7 +129,6 @@ Each project emphasizes **clarity, scalability, and purpose**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
   
-  <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
@@ -139,9 +142,16 @@ Each project emphasizes **clarity, scalability, and purpose**.
 **Tools & Platforms:** CUDA, Google Colab, Conda Environment, AI Agents SDK, Cybersecurity Policies
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+<div align="center">
 
+![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
 ---
-
 
 ## ✒️ Poetry
 My pen name? Aurea Vale...
@@ -159,8 +169,6 @@ I’m a **published poet**, writing at the crossroads of:
 Those who dream by day are cognizant of many things which escape those who dream only by night.
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
-
-
 
 ## 🧭 Philosophy
 Technology should solve problems that actually matter.  
