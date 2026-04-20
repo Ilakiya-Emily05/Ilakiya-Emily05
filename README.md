@@ -1,4 +1,4 @@
-<p align="centre"> 
+<p align="center"> 
   <img src="https://github.com/Ilakiya-Emily05/Ilakiya-Emily05/blob/main/image_2026-02-23_010432113.png" width="500"/>
 </p>
 
