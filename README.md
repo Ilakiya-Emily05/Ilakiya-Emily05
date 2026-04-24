@@ -99,6 +99,7 @@ Each project is built with a focus on scalable system design, performance, and m
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=5&color=12" />
 </p>
+
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
 
