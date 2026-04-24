@@ -82,15 +82,17 @@ Each project is built with a focus on scalable system design, performance, and m
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=true&layout=compact&count_private=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=5&color=12" />
+</p>
 
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
