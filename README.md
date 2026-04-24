@@ -33,6 +33,9 @@ I’m interested in building useful, scalable AI, especially where resources are
 ---
 
 ## 🛠️ Projects
+<a href="https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator">
+  <img src="https://img.shields.io/badge/Helios--AI%20Orchestrator-FF1493?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</a>
 <p align="left">
   <a href="https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main">
     <img src="https://img.shields.io/badge/Vision%20AI-FF69B4?style=for-the-badge&logo=opencv&logoColor=white"/>
