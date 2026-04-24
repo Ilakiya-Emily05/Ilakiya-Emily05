@@ -82,18 +82,23 @@ Each project is built with a focus on scalable system design, performance, and m
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&theme=shadow_red&hide_border=true&layout=compact&count_private=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=shadow_red&hide_border=true&count_private=true" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=5&color=12" />
 </p>
-
 # 📊 Leetcode Stats:
 ![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
 
