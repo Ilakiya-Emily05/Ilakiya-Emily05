@@ -68,14 +68,16 @@ I’m interested in building useful, scalable AI, especially where resources are
   </a>
 </p>
 Selected works span:
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Data Analytics  
-- Intelligent Automation  
-- Tech for Sustainability & Climate Impact  
 
-Each project emphasizes **clarity, scalability, and purpose**.
+Artificial Intelligence & Machine Learning
+Computer Vision
+LLM-based Systems & AI Integration
+Backend Engineering & API Architecture (FastAPI, microservices)
+Data Analytics & Visualization (Power BI, Python)
+Intelligent Automation
+Technology for Sustainability & Climate Impact
 
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+Each project is built with a focus on scalable system design, performance, and meaningful impact, translating complex ideas into practical, high-value solutions.⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
