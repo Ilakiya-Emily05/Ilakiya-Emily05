@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Building AI Systems</b> · <b>Computer Vision</b> · <b>Edge–Cloud ML</b><br>
+  <b>Building AI Systems</b> · <b>Backend Engineering</b> · <b>Computer Vision</b> · <b>Scalable Software</b><br>
 </p>
 
 <p align="center">
@@ -18,32 +18,32 @@
 
 ## 🌱 About Me
 
-I’m a pre-final year Computer Science Engineering student focused on building and deploying applied AI systems, with a strong interest in computer vision, edge–cloud ML, and data-driven decision-making.
+I’m a pre-final year Computer Science Engineering student building applied AI systems, scalable backend architectures, and production-oriented software with a strong interest in computer vision and edge–cloud intelligence.
 
-My work sits at the intersection of machine learning and real-world constraints, especially in climate, sustainability, and agricultural intelligence. Through projects and internships, I’ve built and deployed CNN-based systems, worked with CUDA-accelerated training, and exposed models via APIs and interactive interfaces.
+Through internships and independent projects, I’ve developed FastAPI microservices, deployed GPU-accelerated ML pipelines, integrated APIs, and translated research ideas into usable engineering systems.
 
-Beyond code, I think in systems. I’m drawn to patterns, optimization, and problems where technology meets physical and social realities. This systems mindset also shapes my involvement in climate and biodiversity initiatives, where I contribute technical insight rather than performative advocacy.
+I’m drawn to optimization, systems thinking, and building technology that performs under real-world constraints rather than staying as theory on paper.
 
-Outside engineering, I write poetry and paint. It’s not a contradiction. It’s how I sharpen observation, abstraction, and restraint.
+Outside engineering, I write poetry and paint, disciplines that sharpen observation, abstraction, and design restraint.
 
-I’m interested in building useful, scalable AI, especially where resources are limited and impact actually matters.
+I care about useful technology: software that reduces friction, scales intelligently, and solves problems that actually matter.
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
 ## 🛠️ Projects
+
 <a href="https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator">
   <img src="https://img.shields.io/badge/Helios--AI%20Orchestrator-FF1493?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </a>
+
 <p align="left">
   <a href="https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main">
     <img src="https://img.shields.io/badge/Vision%20AI-FF69B4?style=for-the-badge&logo=opencv&logoColor=white"/>
   </a>
   <a href="https://github.com/Ilakiya-Emily05/Marutham-Mozhi">
     <img src="https://img.shields.io/badge/Marutham%20Mozhi-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  </a>
-  <a href="https://img.shields.io/badge/INTUERA-B22222?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://github.com/Ilakiya-Emily05/HireSight">
     <img src="https://img.shields.io/badge/HireSight--XAI-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
@@ -67,54 +67,43 @@ I’m interested in building useful, scalable AI, especially where resources are
     <img src="https://img.shields.io/badge/OcuScan-20B2AA?style=for-the-badge&logo=opencv&logoColor=white"/>
   </a>
 </p>
-Selected works span:
 
-Artificial Intelligence & Machine Learning
-Computer Vision
-LLM-based Systems & AI Integration
-Backend Engineering & API Architecture (FastAPI, microservices)
-Data Analytics & Visualization (Power BI, Python)
-Intelligent Automation
-Technology for Sustainability & Climate Impact
+Selected works span engineering across:
 
-Each project is built with a focus on scalable system design, performance, and meaningful impact, translating complex ideas into practical, high-value solutions.⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+Artificial Intelligence & Machine Learning  
+Computer Vision  
+LLM-based Systems & AI Integration  
+Backend Engineering & API Architecture (FastAPI, Microservices)  
+Data Analytics & Visualization  
+Intelligent Automation  
+Technology for Sustainability & Climate Impact  
+
+Each project is built with a focus on scalable system design, performance, and meaningful practical impact.
+
+⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilakiya-Emily05&theme=shadow_red&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=shadow_red&hide_border=true&count_private=true" height="160"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=shadow_red&hide_border=true&count_private=true" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ilakiya-Emily05&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ilakiya-Emily05&icon=5&color=12" />
-</p>
-
-# 📊 Leetcode Stats:
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/Ilakiya_Emily?theme=dark&font=%27Fira+Code%27%2C+%27Courier+New%27%2C+monospace&template=minimal)
 
 ---
 
 ## 🧠 Interests & Focus Areas
 
 - Artificial Intelligence & Machine Learning  
+- Backend Systems & Scalable Software  
 - Climate Tech & Sustainability  
 - Ethical & Responsible Innovation  
-- Data for Social & Environmental Impact  
-- Biodiversity & Climate Resilience  
 - Systems Thinking & Strategy  
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+
+---
 
 ## ⚙️ Tools & Technologies
 
@@ -123,48 +112,50 @@ Each project is built with a focus on scalable system design, performance, and m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" width="45"/>
 </p>
 
-**AI & Data Science:** NLP, Machine Learning, Deep Learning, Computer Vision, RNN, Data Analysis, Data Visualization, Model Deployment  
-**Tools & Platforms:** CUDA, Google Colab, Conda Environment, AI Agents SDK, Cybersecurity Policies
+**Engineering Domains:** Backend APIs, Microservices, Machine Learning, Deep Learning, Computer Vision, Data Analytics, Model Deployment  
+**Platforms & Tools:** FastAPI, CUDA, PostgreSQL, Linux, Docker, Git, Google Cloud, AWS
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
+---
+
 ## ✒️ Poetry
+
 My pen name? Aurea Vale...
+
 <p align="left">
   <a href="https://wordsbyg2.odoo.com/shop/thorns-beneath-the-silent-crown-110">
     <img src="https://img.shields.io/badge/Thorns%20Beneath%20the%20Silent%20Crown-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
   </a>
+  <a href="https://www.wordsbyg2.in/shop/laments-of-a-woeful-traveller-by-aurea-vale-185">
+    <img src="https://img.shields.io/badge/Laments%20of%20a%20Woeful%20Traveller-2F4F4F?style=for-the-badge&logo=bookstack&logoColor=white"/>
+  </a>
 </p>
 
-I’m a **published poet**, writing at the crossroads of:
+I’m a published poet writing at the crossroads of:
 - logic and emotion  
 - nature and systems  
 - ambition and vulnerability  
 
-Those who dream by day are cognizant of many things which escape those who dream only by night.
-
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
+---
+
 ## 🧭 Philosophy
-Technology should solve problems that actually matter.  
-If it doesn’t reduce harm, increase clarity, or protect life, it’s just noise.
+
+Technology should solve problems that matter.  
+If it doesn’t reduce harm, increase clarity, or scale human capability, it’s just noise.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilakiya-emily-joseph-ignatius-46ab21291/">
