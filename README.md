@@ -18,17 +18,39 @@
 
 ## 🌱 About Me
 
-I’m a pre-final year Computer Science Engineering student building applied AI systems, scalable backend architectures, and production-oriented software with a strong interest in computer vision and edge–cloud intelligence.
+I’m a pre-final year Computer Science Engineering student building applied AI systems, scalable backend architectures, and production-oriented software with a strong interest in computer vision, edge AI, and intelligent systems engineering.
 
-Through internships and independent projects, I’ve developed FastAPI microservices, deployed GPU-accelerated ML pipelines, integrated APIs, and translated research ideas into usable engineering systems.
+Through internships, research, and independent engineering projects, I’ve developed FastAPI microservices, GPU-accelerated ML pipelines, deployed AI systems, integrated APIs, and translated research ideas into usable production-oriented solutions.
 
-I’m drawn to optimization, systems thinking, and building technology that performs under real-world constraints rather than staying as theory on paper.
+I’m deeply interested in optimization, systems thinking, AI infrastructure, and building technology that performs under real-world constraints.
 
-Outside engineering, I write poetry and paint, disciplines that sharpen observation, abstraction, and design restraint.
+Outside engineering, I write poetry and paint, disciplines that sharpen abstraction, design sensitivity, and observation.
 
-I care about useful technology: software that reduces friction, scales intelligently, and solves problems that actually matter.
+I care about useful technology:
+software that reduces friction, scales intelligently, and solves problems that actually matter.
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+
+---
+
+## 📚 Publications & Research
+
+<p align="left">
+  <a href="https://orcid.org/0009-0003-9033-7677">
+    <img src="https://img.shields.io/badge/ORCID%20Research%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+</p>
+
+### Conference Publication
+**Mind-Aware UI: AI-Driven Adaptive Interfaces for Dynamic Cognitive Load Management**  
+*International Conference on Innovating the Future through Global Entrepreneurship in Business, Engineering & Health Sciences (2026)*
+
+Research domains:
+- Adaptive AI Interfaces
+- Human-Computer Interaction
+- Behavioral AI
+- Cognitive Load Management
+- Gamified UX
 
 ---
 
@@ -68,17 +90,16 @@ I care about useful technology: software that reduces friction, scales intellige
   </a>
 </p>
 
-Selected works span engineering across:
+Selected engineering focus:
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Backend Engineering & API Architecture
+- LLM-based Systems
+- Intelligent Automation
+- Climate Tech
+- GPU-Accelerated AI Systems
 
-Artificial Intelligence & Machine Learning  
-Computer Vision  
-LLM-based Systems & AI Integration  
-Backend Engineering & API Architecture (FastAPI, Microservices)  
-Data Analytics & Visualization  
-Intelligent Automation  
-Technology for Sustainability & Climate Impact  
-
-Each project is built with a focus on scalable system design, performance, and meaningful practical impact.
+Each project emphasizes scalable design, performance, deployment realism, and practical impact.
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
@@ -93,13 +114,17 @@ Each project is built with a focus on scalable system design, performance, and m
 
 ---
 
-## 🧠 Interests & Focus Areas
+## 🧠 Research & Engineering Interests
 
-- Artificial Intelligence & Machine Learning  
-- Backend Systems & Scalable Software  
-- Climate Tech & Sustainability  
-- Ethical & Responsible Innovation  
-- Systems Thinking & Strategy  
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- GPU Computing
+- Edge AI
+- Backend Systems
+- Scalable Distributed Software
+- Climate Technology
+- Human-Centered AI
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
@@ -123,16 +148,15 @@ Each project is built with a focus on scalable system design, performance, and m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
 </p>
 
-**Engineering Domains:** Backend APIs, Microservices, Machine Learning, Deep Learning, Computer Vision, Data Analytics, Model Deployment  
-**Platforms & Tools:** FastAPI, CUDA, PostgreSQL, Linux, Docker, Git, Google Cloud, AWS
+**Core Stack:** Python, FastAPI, TensorFlow, PyTorch, CUDA, PostgreSQL, Docker, Linux, Git
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
-## ✒️ Poetry
+## ✒️ Poetry & Writing
 
-My pen name? Aurea Vale...
+Published under my pen name: **Aurea Vale**
 
 <p align="left">
   <a href="https://wordsbyg2.odoo.com/shop/thorns-beneath-the-silent-crown-110">
@@ -143,10 +167,13 @@ My pen name? Aurea Vale...
   </a>
 </p>
 
-I’m a published poet writing at the crossroads of:
-- logic and emotion  
-- nature and systems  
-- ambition and vulnerability  
+Themes explored:
+- grief
+- resilience
+- identity
+- longing
+- nature
+- the tension between logic and emotion
 
 ⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
@@ -154,8 +181,11 @@ I’m a published poet writing at the crossroads of:
 
 ## 🧭 Philosophy
 
-Technology should solve problems that matter.  
-If it doesn’t reduce harm, increase clarity, or scale human capability, it’s just noise.
+Technology should reduce harm, increase clarity, and scale human capability.
+
+If it doesn’t solve something meaningful, it’s just expensive electricity.
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilakiya-emily-joseph-ignatius-46ab21291/">
@@ -163,6 +193,9 @@ If it doesn’t reduce harm, increase clarity, or scale human capability, it’s
   </a>
   <a href="mailto:ilakiyaemilyjoseph@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0003-9033-7677">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
 </p>
 
