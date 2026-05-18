@@ -148,16 +148,6 @@ This project explores interactive software design, game mechanics, and structure
 - Intelligent Automation
 - Human-Centered Software
 
-Each project emphasizes scalable design, practical implementation, performance awareness, and real-world usability.
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilakiya-Emily05&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilakiya-Emily05&layout=compact&theme=shadow_red&hide_border=true&count_private=true" height="160"/>
-</p>
-
 ---
 
 ## 🧠 Research & Engineering Interests
