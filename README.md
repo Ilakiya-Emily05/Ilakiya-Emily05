@@ -56,53 +56,99 @@ Research domains:
 
 ## 🛠️ Projects
 
-<a href="https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator">
-  <img src="https://img.shields.io/badge/Helios--AI%20Orchestrator-FF1493?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</a>
+My projects are grouped by engineering focus so recruiters, reviewers, and other confused internet creatures can quickly understand what I build.
 
-<p align="left">
-  <a href="https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main">
-    <img src="https://img.shields.io/badge/Vision%20AI-FF69B4?style=for-the-badge&logo=opencv&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/Marutham-Mozhi">
-    <img src="https://img.shields.io/badge/Marutham%20Mozhi-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/HireSight">
-    <img src="https://img.shields.io/badge/HireSight--XAI-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/mission1.5">
-    <img src="https://img.shields.io/badge/Mission%201.5-228B22?style=for-the-badge&logo=leaf&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/Realm-of-Rivals">
-    <img src="https://img.shields.io/badge/Realm%20of%20Rivals-4B0082?style=for-the-badge&logo=unity&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/Task-Manager-Pro">
-    <img src="https://img.shields.io/badge/Task%20Manager%20Pro-1E90FF?style=for-the-badge&logo=trello&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-">
-    <img src="https://img.shields.io/badge/India%20Data%20Analysis-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/Emergency-Room-Data-Dashboard">
-    <img src="https://img.shields.io/badge/ER%20Data%20Dashboard-DC143C?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ilakiya-Emily05/OcuScan">
-    <img src="https://img.shields.io/badge/OcuScan-20B2AA?style=for-the-badge&logo=opencv&logoColor=white"/>
-  </a>
-</p>
+---
 
-Selected engineering focus:
+### 🚀 AI Infrastructure & GPU Systems
+
+| Project | Focus |
+|---|---|
+| [Helios: GPU-Aware Multi-Agent AI Orchestrator](https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator) | GPU-aware scheduling, multi-agent AI orchestration, backend AI systems |
+
+Helios explores how concurrent AI agents can be orchestrated efficiently using GPU-aware task scheduling, latency optimization, throughput tracking, and intelligent resource allocation.
+
+---
+
+### 🧠 Artificial Intelligence & Machine Learning
+
+| Project | Focus |
+|---|---|
+| [HireSight](https://github.com/Ilakiya-Emily05/HireSight) | Bias-aware hiring, explainable AI, fairness metrics |
+| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Climate-tech AI, sustainability-focused intelligence |
+| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Python data analysis, visualization, insights |
+
+These projects focus on applied ML, explainability, ethical AI, climate intelligence, and data-driven decision-making.
+
+---
+
+### 👁️ Computer Vision & Image Intelligence
+
+| Project | Focus |
+|---|---|
+| [Vision AI](https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main) | Computer vision, image processing, OpenCV |
+| [OcuScan](https://github.com/Ilakiya-Emily05/OcuScan) | Vision-based detection and analysis |
+
+These projects apply computer vision techniques for image understanding, visual analysis, and practical AI-assisted detection workflows.
+
+---
+
+### 🌱 Climate Tech & Social Impact
+
+| Project | Focus |
+|---|---|
+| [Marutham Mozhi](https://github.com/Ilakiya-Emily05/Marutham-Mozhi) | Agriculture, climate awareness, Tamil-first impact tech |
+| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Sustainability, climate intelligence, public awareness |
+
+These projects reflect my interest in building technology that supports climate action, agriculture, accessibility, and meaningful real-world impact.
+
+---
+
+### 📊 Data Analytics & Dashboards
+
+| Project | Focus |
+|---|---|
+| [Emergency Room Data Dashboard](https://github.com/Ilakiya-Emily05/Emergency-Room-Data-Dashboard) | Power BI, healthcare analytics, dashboarding |
+| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Python analytics, exploratory data analysis |
+
+These projects focus on transforming raw data into usable insights through dashboards, visualization, and analytical storytelling.
+
+---
+
+### ⚙️ Software Engineering & Productivity Tools
+
+| Project | Focus |
+|---|---|
+| [Task Manager Pro](https://github.com/Ilakiya-Emily05/Task-Manager-Pro) | Task management, productivity software, frontend/backend logic |
+
+This category includes software tools focused on usability, organization, workflow design, and practical application development.
+
+---
+
+### 🎮 Game Development & Interactive Systems
+
+| Project | Focus |
+|---|---|
+| [Realm of Rivals](https://github.com/Ilakiya-Emily05/Realm-of-Rivals) | Game logic, interactive systems, Unity-style development |
+
+This project explores interactive software design, game mechanics, and structured logic for user-driven digital experiences.
+
+---
+
+### Selected Engineering Focus
+
 - Artificial Intelligence & Machine Learning
+- GPU-Accelerated AI Systems
+- Multi-Agent AI Orchestration
 - Computer Vision
 - Backend Engineering & API Architecture
-- LLM-based Systems
+- Explainable AI & Fairness
+- Climate Technology
+- Data Analytics & Dashboards
 - Intelligent Automation
-- Climate Tech
-- GPU-Accelerated AI Systems
+- Human-Centered Software
 
-Each project emphasizes scalable design, performance, deployment realism, and practical impact.
-
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
-
+Each project emphasizes scalable design, practical implementation, performance awareness, and real-world usability.
 ---
 
 # 📊 GitHub Stats
