@@ -88,7 +88,7 @@ These projects focus on applied ML, explainability, ethical AI, climate intellig
 |---|---|
 | [Vision AI](https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main) | Computer vision, image processing, OpenCV |
 | [OcuScan](https://github.com/Ilakiya-Emily05/OcuScan) | Vision-based detection and analysis |
-
+| [INTUERA](https://github.com/Ilakiya-Emily05/INTUERA) | Intelligent video processing, object detection, OpenCV, AWS Rekognition, cloud vision pipelines |
 These projects apply computer vision techniques for image understanding, visual analysis, and practical AI-assisted detection workflows.
 
 ---
