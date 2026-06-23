@@ -33,6 +33,25 @@ software that reduces friction, scales intelligently, and solves problems that a
 
 ---
 
+## 🚀 Featured Project
+
+### Spice Girl – AI Outfit Recommendation Backend System
+FastAPI · Backend AI Systems · Context-Aware Recommendation Engine · Explainable AI
+
+A rule-based AI system that generates personalized outfit recommendations using weather, occasion, and user preference modeling.
+
+Key capabilities:
+- JWT authentication system
+- Clothing wardrobe CRUD system
+- Event-driven outfit recommendation engine
+- Weather-aware outfit adjustments via API integration
+- Preference learning based on user behavior
+- Explainable AI-style recommendation outputs using scoring + reasoning
+
+[View Project](https://github.com/Ilakiya-Emily05/SpiceGirl)
+
+---
+
 ## 📚 Publications & Research
 
 <p align="left">
@@ -56,17 +75,17 @@ Research domains:
 
 ## 🛠️ Projects
 
-My projects are grouped by engineering focus so recruiters, reviewers, and other confused internet creatures can quickly understand what I build.
+My projects are grouped by engineering focus.
 
 ---
 
-### 🚀 AI Infrastructure & GPU Systems
+### 🚀 AI Infrastructure & Backend Systems
 
 | Project | Focus |
 |---|---|
-| [Helios: GPU-Aware Multi-Agent AI Orchestrator](https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator) | GPU-aware scheduling, multi-agent AI orchestration, backend AI systems |
+| [Helios: GPU-Aware Multi-Agent AI Orchestrator](https://github.com/Ilakiya-Emily05/Helios-GPU-Aware-Multi-Agent-AI-Orchestrator) | GPU scheduling, multi-agent AI systems |
 
-Helios explores how concurrent AI agents can be orchestrated efficiently using GPU-aware task scheduling, latency optimization, throughput tracking, and intelligent resource allocation.
+Helios explores concurrent AI orchestration with GPU-aware scheduling and latency optimization.
 
 ---
 
@@ -74,35 +93,28 @@ Helios explores how concurrent AI agents can be orchestrated efficiently using G
 
 | Project | Focus |
 |---|---|
-| [HireSight](https://github.com/Ilakiya-Emily05/HireSight) | Bias-aware hiring, explainable AI, fairness metrics |
-| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Climate-tech AI, sustainability-focused intelligence |
-| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Python data analysis, visualization, insights |
-
-These projects focus on applied ML, explainability, ethical AI, climate intelligence, and data-driven decision-making.
+| [HireSight](https://github.com/Ilakiya-Emily05/HireSight) | Explainable AI, bias-aware hiring |
+| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Climate AI systems |
+| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Data analytics |
 
 ---
 
-### 👁️ Computer Vision & Image Intelligence
+### 👁️ Computer Vision Systems
 
 | Project | Focus |
 |---|---|
-| [Vision AI](https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main) | Computer vision, image processing, OpenCV |
-| [OcuScan](https://github.com/Ilakiya-Emily05/OcuScan) | Vision-based detection and analysis |
-| [INTUERA](https://github.com/Ilakiya-Emily05/INTUERA) | Intelligent video processing, object detection, OpenCV, AWS Rekognition, cloud vision pipelines |
-
-
-These projects apply computer vision techniques for image understanding, visual analysis, and practical AI-assisted detection workflows.
+| [Vision AI](https://github.com/Ilakiya-Emily05/Vision_Ai/tree/main) | OpenCV, image processing |
+| [OcuScan](https://github.com/Ilakiya-Emily05/OcuScan) | Vision-based detection |
+| [INTUERA](https://github.com/Ilakiya-Emily05/INTUERA) | Video analytics, AWS Rekognition |
 
 ---
 
-### 🌱 Climate Tech & Social Impact
+### 🌱 Climate Tech & Impact Systems
 
 | Project | Focus |
 |---|---|
-| [Marutham Mozhi](https://github.com/Ilakiya-Emily05/Marutham-Mozhi) | Agriculture, climate awareness, Tamil-first impact tech |
-| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Sustainability, climate intelligence, public awareness |
-
-These projects reflect my interest in building technology that supports climate action, agriculture, accessibility, and meaningful real-world impact.
+| [Marutham Mozhi](https://github.com/Ilakiya-Emily05/Marutham-Mozhi) | Agriculture intelligence |
+| [Mission 1.5](https://github.com/Ilakiya-Emily05/mission1.5) | Climate sustainability |
 
 ---
 
@@ -110,61 +122,38 @@ These projects reflect my interest in building technology that supports climate 
 
 | Project | Focus |
 |---|---|
-| [Emergency Room Data Dashboard](https://github.com/Ilakiya-Emily05/Emergency-Room-Data-Dashboard) | Power BI, healthcare analytics, dashboarding |
-| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Python analytics, exploratory data analysis |
-
-These projects focus on transforming raw data into usable insights through dashboards, visualization, and analytical storytelling.
+| [Emergency Room Data Dashboard](https://github.com/Ilakiya-Emily05/Emergency-Room-Data-Dashboard) | Power BI analytics |
+| [Data Analysis Using Python for India](https://github.com/Ilakiya-Emily05/Data-analysis-using-python-for-india-) | Python analytics |
 
 ---
 
-### ⚙️ Software Engineering & Productivity Tools
+### ⚙️ Software Engineering Projects
 
 | Project | Focus |
 |---|---|
-| [Task Manager Pro](https://github.com/Ilakiya-Emily05/Task-Manager-Pro) | Task management, productivity software, frontend/backend logic |
-
-This category includes software tools focused on usability, organization, workflow design, and practical application development.
+| [Task Manager Pro](https://github.com/Ilakiya-Emily05/Task-Manager-Pro) | Productivity system |
+| [Spice Girl Backend API](https://github.com/Ilakiya-Emily05/SpiceGirl) | AI backend system |
 
 ---
 
-### 🎮 Game Development & Interactive Systems
+### 🎮 Game Development
 
 | Project | Focus |
 |---|---|
-| [Realm of Rivals](https://github.com/Ilakiya-Emily05/Realm-of-Rivals) | Game logic, interactive systems, Unity-style development |
-
-This project explores interactive software design, game mechanics, and structured logic for user-driven digital experiences.
-
----
-
-### Selected Engineering Focus
-
-- Artificial Intelligence & Machine Learning
-- GPU-Accelerated AI Systems
-- Multi-Agent AI Orchestration
-- Computer Vision
-- Backend Engineering & API Architecture
-- Explainable AI & Fairness
-- Climate Technology
-- Data Analytics & Dashboards
-- Intelligent Automation
-- Human-Centered Software
+| [Realm of Rivals](https://github.com/Ilakiya-Emily05/Realm-of-Rivals) | Game systems |
 
 ---
 
 ## 🧠 Research & Engineering Interests
 
 - Artificial Intelligence
-- Deep Learning
 - Computer Vision
+- Backend Systems
 - GPU Computing
 - Edge AI
-- Backend Systems
-- Scalable Distributed Software
-- Climate Technology
+- Scalable Architecture
 - Human-Centered AI
-
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+- Climate Technology
 
 ---
 
@@ -172,9 +161,9 @@ This project explores interactive software design, game mechanics, and structure
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
@@ -182,38 +171,21 @@ This project explores interactive software design, game mechanics, and structure
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
 </p>
-
-**Core Stack:** Python, FastAPI, TensorFlow, PyTorch, CUDA, PostgreSQL, Docker, Linux, Git
-
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
 
 ---
 
-## ✒️ Poetry & Writing
+## ✒️ Writing & Publications
 
-Published under my pen name: **Aurea Vale**
+Published under pen name: **Aurea Vale**
 
-<p align="left">
-  <a href="https://wordsbyg2.odoo.com/shop/thorns-beneath-the-silent-crown-110">
-    <img src="https://img.shields.io/badge/Thorns%20Beneath%20the%20Silent%20Crown-000000?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  </a>
-  <a href="https://www.wordsbyg2.in/shop/laments-of-a-woeful-traveller-by-aurea-vale-185">
-    <img src="https://img.shields.io/badge/Laments%20of%20a%20Woeful%20Traveller-2F4F4F?style=for-the-badge&logo=bookstack&logoColor=white"/>
-  </a>
-</p>
-
-Themes explored:
+Themes:
+- identity
 - grief
 - resilience
-- identity
 - longing
 - nature
-- the tension between logic and emotion
-
-⋆｡˚ ✩ ⋆｡˚ ✩ ⋆｡˚ ✩
+- logic vs emotion
 
 ---
 
@@ -221,7 +193,7 @@ Themes explored:
 
 Technology should reduce harm, increase clarity, and scale human capability.
 
-If it doesn’t solve something meaningful, it’s just expensive electricity.
+If it doesn’t solve a real problem, it’s just expensive computation.
 
 ---
 
