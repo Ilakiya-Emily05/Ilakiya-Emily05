@@ -33,24 +33,6 @@ software that reduces friction, scales intelligently, and solves problems that a
 
 ---
 
-## 🚀 Featured Project
-
-### Spice Girl – AI Outfit Recommendation Backend System
-FastAPI · Backend AI Systems · Context-Aware Recommendation Engine · Explainable AI
-
-A rule-based AI system that generates personalized outfit recommendations using weather, occasion, and user preference modeling.
-
-Key capabilities:
-- JWT authentication system
-- Clothing wardrobe CRUD system
-- Event-driven outfit recommendation engine
-- Weather-aware outfit adjustments via API integration
-- Preference learning based on user behavior
-- Explainable AI-style recommendation outputs using scoring + reasoning
-
-[View Project](https://github.com/Ilakiya-Emily05/SpiceGirl)
-
----
 
 ## 📚 Publications & Research
 
